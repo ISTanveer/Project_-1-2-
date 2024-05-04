@@ -1,0 +1,15 @@
+	Payslip of IST
+
+To: Asadul Alam
+Date and Time:Sun Jul 16 21:31:24 2023
+
+
+Product		  quantity	cost
+Shahara Punjabi 	2	15900BDT
+----------------------------------------
+Total				15900BDT
+discount(0%)			00000BDT
+----------------------------------------
+Net Total			15900BDT
+		Good Bye
+
